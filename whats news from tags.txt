@@ -1,0 +1,30 @@
+
+
+HTML :
+draggable="false with image no drag drop
+
+
+
+CSS 
+box-sizing: border-box; 
+by5od al padding mn al size bta3 al items
+
+----
+to make block in center make 
+margine: auto
+----
+list-style: none;
+tsheel al point aly fe list
+
+
+
+
+*-*-*-*-*-
+git init (bghzo )
+git add . ( b3ml save)
+git commit -m "you will look at my cv"b3mel rsala lea
+git push origin master
+
+
+
+
